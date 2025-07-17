@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/laptou-rust-docs-mcp-server-badge.jpg)](https://mseep.ai/app/laptou-rust-docs-mcp-server)
+
 # Rust Docs MCP Server
 
 An MCP (Model Context Protocol) server that provides access to Rust documentation from docs.rs. This server allows AI tools to search for documentation, type information, feature flags, version numbers, and symbol definitions/source code.
